@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "d63fa8dfd93ab676f6bd691be33ca577"
+build_time: [1553723588, 188261000]
+inputs:
+  "/Users/linhhuynh/Desktop/iOS_Swift_Bootcamp/Xylophone/Xylophone/ VIewController.swift": [1515006922, 0]
+  "/Users/linhhuynh/Desktop/iOS_Swift_Bootcamp/Xylophone/Xylophone/AppDelegate.swift": [1510852490, 0]
